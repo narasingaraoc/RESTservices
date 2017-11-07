@@ -22,7 +22,7 @@ import com.pandu.util.CustomErrorType;
 @RestController
 @RequestMapping("/api")
 public class RestApiController {
-	//TODO
+	//TODO inital commit
 
 	public static final Logger logger = LoggerFactory.getLogger(RestApiController.class);
 
